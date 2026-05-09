@@ -9,7 +9,7 @@ env/
 venv/          # Virtual environment for testing
 .venv
 
-# Teacher IDE settings
+# IDE settings
 .vscode/       # Ms. Rodriguez uses VS Code
 .idea/         # Mr. Chen uses PyCharm
 
@@ -22,3 +22,6 @@ htmlcov/
 # Staff computer files
 .DS_Store      # For teachers with Macs
 Thumbs.db      # For teachers with Windows
+
+# Github Config
+.github
